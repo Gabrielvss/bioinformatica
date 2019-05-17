@@ -8,7 +8,7 @@
         <br />
         <sub><b>John Victor</b></sub>
       </a><br />
-      <a href="https://github.com/startworks-group/starttm-backend/commits?author=johnvictor2017" title="Code">💻</a>
+      <a href="https://github.com/JohnVictor2017/bioinformatica/commits?author=johnvictor2017" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gabrielvss">
@@ -16,7 +16,7 @@
         <br />
         <sub><b>Gabriel Vinícius</b></sub>
       </a><br />
-      <a href="https://github.com/startworks-group/starttm-backend/commits?author=marlonsecundo" title="Code">💻</a>
+      <a href="https://github.com/JohnVictor2017/bioinformatica/commits?author=gabrielvss" title="Code">💻</a>
     </td>
   </tr>
 </table>
